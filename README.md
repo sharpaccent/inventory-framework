@@ -8,6 +8,7 @@ Be one here :
 https://www.patreon.com/csharpaccent?
 
 
+
 # How to use
 Open the project with Unity, I made this in 2018.2 but the version shouldn't matter
 
@@ -27,3 +28,6 @@ CC-BY-4.0 If you use this in your project provide proper attribution to:
 Athos Kele www.sharpaccent.com
 
 Feel free to contact me if you can't work with this license
+
+# Cool stuff
+![Process](https://j.gifs.com/mQJZW9.gif)
