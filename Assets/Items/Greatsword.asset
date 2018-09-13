@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d06c14df189c9449b3627a880dcef16, type: 3}
+  m_Name: Greatsword
+  m_EditorClassIdentifier: 
+  instId: 0
+  ui_info:
+    icon: {fileID: 21300000, guid: 25840986e0a12344e82082ad36ba333b, type: 3}
+  bodyPart: {fileID: 11400000, guid: 76c44dfd33633cb478b69627345858a8, type: 2}
+  modelPrefab: {fileID: 100002, guid: b797fac9abd4d0b4b8396d99333bab2d, type: 3}

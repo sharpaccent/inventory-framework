@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/InventoryFramework/InventoryFramework.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9cf34849c328244eb99b15ea24d6c6a, type: 3}
+  m_Name: ResourcesManager
+  m_EditorClassIdentifier: 
+  startingItems:
+  - Samurai Chest
+  - Viking Chest
+  - Sword
+  startingWearingIds:
+  - itemId: 
+    bodyPart: {fileID: 11400000, guid: 4b52039877c2ada40bce1670de92e4ff, type: 2}
+    isLeft: 0
+  - itemId: Samurai Helmet
+    bodyPart: {fileID: 11400000, guid: 04534ac0d5d649d48933761ebf7316c8, type: 2}
+    isLeft: 0
+  - itemId: 
+    bodyPart: {fileID: 11400000, guid: 2598d1752d120c942843038601ab9400, type: 2}
+    isLeft: 0
+  - itemId: Sword
+    bodyPart: {fileID: 11400000, guid: 76c44dfd33633cb478b69627345858a8, type: 2}
+    isLeft: 0
+  - itemId: 
+    bodyPart: {fileID: 11400000, guid: 76c44dfd33633cb478b69627345858a8, type: 2}
+    isLeft: 1
+  allItems:
+  - {fileID: 11400000, guid: d9c691b84a14d614fbea099b4a16c2a8, type: 2}
+  - {fileID: 11400000, guid: 4318463ac553f2f4489ecc5df01e4476, type: 2}
+  - {fileID: 11400000, guid: f47e6fbdff3102344b2a5af6600a6b8d, type: 2}
+  - {fileID: 11400000, guid: 4ba109ada968b0649a648527bc81b759, type: 2}
+  - {fileID: 11400000, guid: c812c3e85520978499c7c38a73a72c17, type: 2}
+  currentIds:
+  - bodyPart: {fileID: 11400000, guid: 4b52039877c2ada40bce1670de92e4ff, type: 2}
+    isLeft: 0
+  - bodyPart: {fileID: 11400000, guid: 04534ac0d5d649d48933761ebf7316c8, type: 2}
+    isLeft: 0
+  - bodyPart: {fileID: 11400000, guid: 2598d1752d120c942843038601ab9400, type: 2}
+    isLeft: 0
+  - bodyPart: {fileID: 11400000, guid: 76c44dfd33633cb478b69627345858a8, type: 2}
+    isLeft: 1
+  - bodyPart: {fileID: 11400000, guid: 76c44dfd33633cb478b69627345858a8, type: 2}
+    isLeft: 0
